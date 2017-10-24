@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Analiusz</first_name>
+	<last_name>Whatever</last_name>
+	<phone_number>321432123</phone_number>
+	<notes>Pobably worst guy ever met</notes>
+</contact>
+<contact>
+	<first_name>Michał</first_name>
+	<last_name>Wojciechowski</last_name>
+	<phone_number>123654123</phone_number>
+	<notes>e-mail: mwprogrammers@gmail.com</notes>
+</contact>
+<contact>
+	<first_name>Adrian Rafał</first_name>
+	<last_name>Nowak</last_name>
+	<phone_number>700887778</phone_number>
+	<notes>Striptizer</notes>
+</contact>
+</contacts>

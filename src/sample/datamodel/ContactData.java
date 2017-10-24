@@ -34,7 +34,7 @@ public class ContactData {
     private static final String NOTES = "notes";
 
     private ObservableList<Contact> contacts;
-//    private TableView tableContacts = new TableView();
+//    private TableView contactsTable = new TableView();
 
     public ContactData() {
         // *** initialize the contacts list here ***

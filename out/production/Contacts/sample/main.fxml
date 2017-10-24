@@ -33,25 +33,25 @@
             </columnResizePolicy>
             <columns>
 
-                <TableColumn text="First Name">
+                <TableColumn text="First Name" prefWidth="150.00">
                     <cellValueFactory>
                         <PropertyValueFactory property="firstName" />
                     </cellValueFactory>
                 </TableColumn>
 
-                <TableColumn text="Last Name">
+                <TableColumn text="Last Name" prefWidth="200.00">
                     <cellValueFactory>
                         <PropertyValueFactory property="lastName"/>
                     </cellValueFactory>
                 </TableColumn>
 
-                <TableColumn text="Phone Number">
+                <TableColumn text="Phone Number" prefWidth="200.00">
                     <cellValueFactory>
                         <PropertyValueFactory property="phoneNumber"/>
                     </cellValueFactory>
                 </TableColumn>
 
-                <TableColumn text="Notes">
+                <TableColumn text="Notes" prefWidth="250.00">
                     <cellValueFactory>
                         <PropertyValueFactory property="notes"/>
                     </cellValueFactory>
